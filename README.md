@@ -1,9 +1,9 @@
-# anagrammer
+# Anagrammer
 Anagram the Letters  
 
 An application that forms valid words from the given letters.  
 
-By Tim Nguyen  
+Tim Nguyen (nguy1877@umn.edu)  
 2016
 
 ## Get
